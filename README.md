@@ -46,7 +46,7 @@ Follow these steps to get Prompt Hub up and running on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/prompt-hub.git
+   git clone https://github.com/Akash160801/prompt_hub.git
    ```
 
 2. Change into the project directory:
